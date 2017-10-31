@@ -8,4 +8,8 @@
     <color name="colorBackground">#212121</color>
     <color name="colorWhite">#FFFFFF</color>
     <color name="colorGrey">#616161</color>
+    <color name="one">#aaa</color>
+    <color name="two">#E2A9F3</color>
+
+
 </resources>
